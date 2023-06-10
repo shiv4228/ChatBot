@@ -1,0 +1,8 @@
+chromadb
+tiktoken
+pypdf
+openai -q
+textract
+tiktoken
+faiss-cpu
+langchain
